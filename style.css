@@ -6,3 +6,30 @@ body {
     padding: 25px;
     box-shadow: black;
 }
+
+#trans-area {
+    display: none;
+}
+
+.deposit {
+    background-color: slateblue;
+}
+
+.withdraw {
+    background-color: lightsalmon;
+}
+
+.balance {
+    background-color: orange;
+}
+
+.status {
+    margin: 0pc 20px;
+    padding: 15px;
+    color: white;
+    border-radius: 5px;
+}
+
+.second {
+    margin-top: 70px;
+}
